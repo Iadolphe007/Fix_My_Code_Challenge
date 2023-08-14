@@ -1,10 +1,7 @@
 <h1>Background Context</h1>
-<br>
 <p><strong>Fix my code</strong>is a new type of project, where we’ll jump into an existing code base and fix it!</p>
 <p>Sometimes you will know the language, sometimes not.</P>
-<br>
 <h1>Requirements</h1>
-<br>
 <h3>General</h3>
 <ul>
 <li>Allowed editors: <strong>vi, vim, emacs</strong></li>
