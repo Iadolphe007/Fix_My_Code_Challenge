@@ -7,5 +7,5 @@
 <li>Allowed editors: <strong>vi, vim, emacs</strong></li>
 <li>All your files will be compiled on Ubuntu 20.04 LTS</li>
 <li>All your files should end with a new line</li>
-<li>A<strong>README.md</strong> file, at the root of the folder of the project is mandatory</li>
+<li>A<strong> README.md</strong> file, at the root of the folder of the project is mandatory</li>
 </ul>
